@@ -1,13 +1,13 @@
 # QUEEN-AI PROJECT DETAILS
 
 `
-Project Name : Queen-AI
+Project Name : Shenux
 `
 `
 Version : 1.0.0
 `
 `
-Author : DarkWinzo
+Author : Shenux
 `
 `
 Language : JavaScript
